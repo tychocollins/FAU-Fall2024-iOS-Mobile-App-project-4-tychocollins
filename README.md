@@ -13,7 +13,14 @@ The following **required** functionality is completed:
 - [x] User can create and add new cards in the deck
 
 
+Shuffling Through the Deck
 
+![95spc1](https://github.com/user-attachments/assets/690060c5-8d81-4754-9f6e-02a777f3eb31)
+
+
+Adding a new card to the deck
+
+![Addacard-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c1196656-2862-45f4-9917-7769faf9e487)
 
 
 
