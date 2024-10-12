@@ -14,6 +14,8 @@
 		B162DB0A2CB0648F005473C7 /* FlashcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162DB092CB0648F005473C7 /* FlashcardTests.swift */; };
 		B162DB142CB0648F005473C7 /* FlashcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162DB132CB0648F005473C7 /* FlashcardUITests.swift */; };
 		B162DB162CB0648F005473C7 /* FlashcardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162DB152CB0648F005473C7 /* FlashcardUITestsLaunchTests.swift */; };
+		B162DB232CB0686E005473C7 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162DB222CB0686E005473C7 /* CardView.swift */; };
+		B162DB252CB07B80005473C7 /* CreateFlashcardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162DB242CB07B80005473C7 /* CreateFlashcardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		B162DB0F2CB0648F005473C7 /* FlashcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B162DB132CB0648F005473C7 /* FlashcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardUITests.swift; sourceTree = "<group>"; };
 		B162DB152CB0648F005473C7 /* FlashcardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B162DB222CB0686E005473C7 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		B162DB242CB07B80005473C7 /* CreateFlashcardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateFlashcardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				B162DAF82CB0648E005473C7 /* FlashcardApp.swift */,
 				B162DAFA2CB0648E005473C7 /* ContentView.swift */,
+				B162DB242CB07B80005473C7 /* CreateFlashcardView.swift */,
+				B162DB222CB0686E005473C7 /* CardView.swift */,
 				B162DAFC2CB0648F005473C7 /* Assets.xcassets */,
 				B162DAFE2CB0648F005473C7 /* Preview Content */,
 			);
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B162DAFB2CB0648E005473C7 /* ContentView.swift in Sources */,
+				B162DB232CB0686E005473C7 /* CardView.swift in Sources */,
 				B162DAF92CB0648E005473C7 /* FlashcardApp.swift in Sources */,
+				B162DB252CB07B80005473C7 /* CreateFlashcardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
